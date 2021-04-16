@@ -16,6 +16,7 @@ int main (void)
     if(min > x3) min = x3;
 
     printf("min = %d" , min);
+    printf("おなかすいた");
 
     return 0;
 }
